@@ -1,6 +1,6 @@
 package techmarket.uno.thread.thread;
 
-public class Main {
+public class Main0 {
     static boolean isFive = false;
 
     public static void main(String[] args) {
